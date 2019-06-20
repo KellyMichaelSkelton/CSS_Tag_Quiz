@@ -1,0 +1,43 @@
+body {
+  margin: 0px;
+}
+
+h1 {
+  padding: 10px;
+  font-family: arial;
+  color: black;
+  font-weight: bold;
+}
+
+h2 {
+  padding: 20px;
+  font-family: verdana;
+  color: red;
+}
+
+h3 {
+  padding: 20px, 50px;
+  font-family: fantasy;
+  color: black
+}
+
+h4 {
+  padding: 15px;
+  color: black;
+  font-weight: bold;
+}
+
+h5 {
+  padding: 75px, 15px;
+}
+
+h6 {
+  background-color: black;
+  color: cyan;
+  font-weight: courier;
+  width: 50%;
+}
+
+p {
+  font-size: 50%;
+}
